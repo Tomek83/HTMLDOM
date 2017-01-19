@@ -1,0 +1,17 @@
+<html>
+<body>
+<div id="art">
+	<div class="lead">
+	tasazarek kolendowicz i /*hihi<*/ inni <script type="text/javascript">no script</script>
+	<div>div 1</div>
+	<div>div 2</div>
+	<script type="text/javascript">/*[<*/no script 1</script>
+	<ul>
+		<li>1</li>
+		<li>2</li>
+		<li>3</li>
+	</ul>
+</div>
+</div>
+</body>
+</html>
